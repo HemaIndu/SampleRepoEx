@@ -301,7 +301,7 @@
     <distributionManagement>
 	 <repository>
         <id>1234</id>
-        <url>http://localhost:8050/nexus/content/repositories/releases/</url>
+        <url>http://localhost:8050/nexus/content/repositories/releases</url>
      </repository>
       <snapshotRepository>
         <id>2345</id>
