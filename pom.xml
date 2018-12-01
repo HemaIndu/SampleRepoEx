@@ -299,7 +299,7 @@
 
     </profiles>
     <distributionManagement>
-	 <repository>
+	<repository>
         <id>1234</id>
         <url>http://localhost:8050/nexus/content/repositories/releases</url>
      </repository>
