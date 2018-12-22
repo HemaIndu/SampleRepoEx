@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 branch1
 welcome branch1
+=======
+changes made in the branch1
+>>>>>>> Stashed changes
