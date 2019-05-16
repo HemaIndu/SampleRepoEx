@@ -296,8 +296,7 @@
                 </plugins>
             </build>
 	    </profile>
-    </plugins>
-  </build>
+   
 
     </profiles>
     <distributionManagement>
