@@ -1,8 +1,0 @@
-node{
-   stage('SCM checkout'){
-     git 'https://github.com/HemaIndu/SampleRepoEx'
-	 }
-	 stage('Scm Checkout2'){
-	 svn 'https://DESKTOP-DS59JJ4/svn/SampleRepo/'
-	 }
-}
